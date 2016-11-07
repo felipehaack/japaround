@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Japaround</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="maps_places_filename">json.js</string>
+</resources>
